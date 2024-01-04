@@ -1,0 +1,5 @@
+name: 'Example Plugin'
+type: module
+description: 'Example Plugin with annotations and attributes.'
+package: Custom
+core_version_requirement: ^10 || ^11

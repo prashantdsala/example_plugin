@@ -1,0 +1,4 @@
+services:
+  plugin.manager.importer:
+    class: Drupal\example_plugin\ImporterPluginManager
+    parent: default_plugin_manager

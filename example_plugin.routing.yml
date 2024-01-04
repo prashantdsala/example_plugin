@@ -1,0 +1,7 @@
+example_plugin.example:
+  path: '/example-plugin/example'
+  defaults:
+    _title: 'Example Plugin'
+    _controller: '\Drupal\example_plugin\Controller\ExamplePluginController'
+  requirements:
+    _permission: 'access content'
